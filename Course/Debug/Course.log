@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\enazy\source\repos\course\course\algorithm.h(71): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\enazy\source\repos\course\course\algorithm.h(94): warning C4018: <: несоответствие типов со знаком и без знака
+  Course.vcxproj -> C:\Users\enazy\source\repos\Course\Debug\Course.exe
